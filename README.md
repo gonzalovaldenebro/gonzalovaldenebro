@@ -1,6 +1,6 @@
 # Hi, I'm Gonzalo 👋
 
-I'm an explorer in the world of data, on a quest to uncover hidden insights and transform them into valuable solutions. 
+I'm an explorer in the world of data, on a quest to uncover hidden insights and transform them into valuable solutions. Currently, I'm eagerly preparing for new adventures, and I'm on the lookout for exciting job opportunities starting in January 2024.
 
 ## 🌐 Connect with Me
 
