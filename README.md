@@ -27,13 +27,13 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 I am a data professional with a proven track record of impactful contributions in various internship roles.
 
-• **[Data Science Intern, HY-VEE](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1)**, May - Aug 2023
+• **[Data Science Intern, HY-VEE](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1)**
 - I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
 
-• **[Business Analyst Intern, IPS GROUP](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, June - Aug 2022
+• **[Business Analyst Intern, IPS GROUP](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
 - I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
 
-• **[GONVARRI INDUSTRIES (May 2021 - Aug 2021)](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+• **[Data Analyst Intern, Gonvarri Industries](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
 - I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
 
 These experiences have strengthened my technical skills and my ability to deliver impactful insights, making me well-equipped for future data-driven challenges.
