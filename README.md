@@ -4,8 +4,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/) [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
 ## 📚 Education
 
@@ -48,7 +47,6 @@ My academic adventures:
 - [Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy](https://github.com/gonzalovaldenebro/DataAnalyticsCapstone)
 
 ## 🌌 Research 
-
 ### Machine Learning at Drake University
 • 📅 Sep 2021 – Present
 -  **🏅 Consortium for Computer Science in Colleges Central Plains 2022 Poster Contest 1st Place** 
@@ -56,7 +54,6 @@ My academic adventures:
 - Processed 5K response variables extracted from Bank Call Reports to extract feature importance
 - Led the experimentation of Machine Learning models with 8+ students
 - Effectively executed work according to Agile Scrum principles, with weekly stand-ups
-
 
 ## 👥 Leadership
 As President of DATA CLUB, I've cast spells of growth and community:
@@ -66,8 +63,6 @@ As President of DATA CLUB, I've cast spells of growth and community:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)
-
-[![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
 
