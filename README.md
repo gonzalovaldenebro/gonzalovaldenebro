@@ -27,7 +27,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 I am a data professional with a proven track record of impactful contributions in various internship roles.
 
-- [Data Science Intern at HY-VEE (May 2023 - Aug 2023)](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1), I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
+- **[Data Science Intern at HY-VEE (May 2023 - Aug 2023)]**(https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1), I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
 
 - IPS GROUP (Jun 2022 - Aug 2022), I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
 
