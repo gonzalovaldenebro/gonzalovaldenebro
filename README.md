@@ -25,11 +25,13 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 ## 👨‍💼 Professional Chronicles
 
-I am a data professional with a proven track record of impactful contributions in various internship roles. During my tenure as a Data Science Intern at HY-VEE (May 2023 - Aug 2023), I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
+I am a data professional with a proven track record of impactful contributions in various internship roles.
+
+- Data Science Intern at HY-VEE (May 2023 - Aug 2023), I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
 
 - IPS GROUP (Jun 2022 - Aug 2022), I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
 
-• GONVARRI INDUSTRIES (May 2021 - Aug 2021), I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
+- GONVARRI INDUSTRIES (May 2021 - Aug 2021), I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
 
 These experiences have strengthened my technical skills and my ability to deliver impactful insights, making me well-equipped for future data-driven challenges.
 
