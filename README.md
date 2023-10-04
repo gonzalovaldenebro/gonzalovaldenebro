@@ -68,7 +68,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinke
 [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/gonzalovaldenebro)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzalovaldenebro&show_icons=true)](https://github.com/gonzalovaldenebro)
 
 
 
