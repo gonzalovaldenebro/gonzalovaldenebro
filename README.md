@@ -25,31 +25,13 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 ## 👨‍💼 Professional Chronicles
 
-My journey through the professional realm:
+I am a data professional with a proven track record of impactful contributions in various internship roles. During my tenure as a Data Science Intern at HY-VEE (May 2023 - Aug 2023), I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
 
-### Data Science Intern at HY-VEE 
-• 📅 May 2023 – Aug 2023
-• Strategized and successfully executed an independent data science project
-• Executed efficient ETL data processing using SQL Server, curating high-quality datasets, saving 30% runtime
-• Developed a Python algorithm for cross-merchandising ads, anticipated to increase basket revenue by 5%
-• Designed and developed an intuitive H2O AI Wave app for non-technical end users to execute the model interactively
-• Displayed strategic vision by proposing extensions that enhanced the company's advertising strategy
-• Delivered model insights and recommendations to a varied stakeholder audience effectively
-• Effectively executed work according to Agile Scrum principles
+At IPS GROUP (Jun 2022 - Aug 2022), I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
 
-### Business Analyst Inter at IPS GROUP
-• 📅 Jun 2022 – Aug 2022
-• Created and recommended a Qlik Sense dashboard for precise employee forecasting.
-• Introduced a more user-friendly and intuitive sales pipeline within Zoho CRM, optimizing deal management processes.
-• Enhanced customer contract development in Zoho CRM, saving up to 40% of time.
+During my role at GONVARRI INDUSTRIES (May 2021 - Aug 2021), I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
 
-### Data Analyst Intern at GONVARRI INDUSTRIES
-• 📅 May 2021 – Aug 2021
-• Designed and stress-tested a risk analysis dashboard using Excel Pivot Tables and Bex Analyzer for corporate use.
-• Retrieved data of the company’s emissions while shipping material to customer using SAP 4Hana
-• Utilized SAP 4Hana to extract shipping emissions data, enabling precise calculations of emissions per shipment.
-• Accurately estimated emissions per shipment by factoring in distance, shipping methods, and materials using Excel
-• Collaborated with the Environmental Manager to clean emission data for visualization in the annual report
+These experiences have strengthened my technical skills and my ability to deliver impactful insights, making me well-equipped for future data-driven challenges.
 
 ## 📊 University Projects
 
