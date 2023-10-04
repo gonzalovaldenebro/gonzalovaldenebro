@@ -59,7 +59,7 @@ My academic adventures:
 - Effectively executed work according to Agile Scrum principles, with weekly stand-ups
 
 
-## 👥 Leadership Spells
+## 👥 Leadership
 As President of DATA CLUB, I've cast spells of growth and community:
 
 - Orchestrated enchanting events and collaborations, leading to a 30% member growth.
