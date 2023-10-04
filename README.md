@@ -62,6 +62,6 @@ I'm a data enthusiast pursuing a Bachelor's degree in Business Administration wi
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) to learn more about my journey and discuss exciting data-driven opportunities!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/gonzalovaldenebro)
 
 
