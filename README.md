@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Gonzalo 👋
 
 I'm a data enthusiast pursuing a Bachelor's degree in Business Administration with a major in Data Analytics at Drake University. I'm passionate about leveraging data to drive strategic decisions and solve complex problems. Here's a glimpse of my journey so far:
 
@@ -8,11 +8,6 @@ I'm a data enthusiast pursuing a Bachelor's degree in Business Administration wi
   - **Drake University**, Des Moines, IA
   - Expected Graduation: December 2023
   - Scholarships/Awards: Presidential Scholarship, Zimpleman College of Business Leadership Award of Excellence (2022 & 23)
-
-- 🎓 **Associate Degree in Business Administration**
-  - **Endicott College**, Madrid, Spain
-  - Graduated: May 2021
-  - Fluent in English; Spanish native
 
 ## Technical Skills 💻
 
