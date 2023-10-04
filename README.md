@@ -29,9 +29,9 @@ I am a data professional with a proven track record of impactful contributions i
 
 - **[Data Science Intern at HY-VEE (May 2023 - Aug 2023)](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1)**, I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
 
-- IPS GROUP (Jun 2022 - Aug 2022), I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
+- **[IPS GROUP (Jun 2022 - Aug 2022)](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
 
-- GONVARRI INDUSTRIES (May 2021 - Aug 2021), I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
+- **[GONVARRI INDUSTRIES (May 2021 - Aug 2021)](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
 
 These experiences have strengthened my technical skills and my ability to deliver impactful insights, making me well-equipped for future data-driven challenges.
 
