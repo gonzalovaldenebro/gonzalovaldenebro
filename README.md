@@ -15,11 +15,11 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 ## 💻 Tech Toolbox
 
-- **Statistical Sorcery:** Python, R, SAS
-- **Data Domination:** SQL Server, MySQL, NoSQL, MongoDB, DynamoDB
-- **Cloud Conjuring:** Azure, AWS, Google BigQuery
-- **Visualization Wizardry:** Tableau, Power BI, Qlik
-- **Big Data Mastery:** Spark, H2O Ai
+- **Statistical Software:** Python, R, SAS
+- **Database Management:** SQL Server, MySQL, NoSQL, MongoDB, DynamoDB
+- **Cloud Computing:** Azure, AWS, Google BigQuery
+- **Visualization:** Tableau, Power BI, Qlik
+- **Big Data:** Spark, H2O Ai
 - **Languages:** Fluent in English; Spanish native
 
 ## 👨‍💼 Professional Chronicles
