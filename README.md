@@ -1,6 +1,11 @@
 # Hi, I'm Gonzalo 👋
 
-I'm an explorer in the world of data, on a quest to uncover hidden insights and transform them into valuable solutions. Join me on this journey:
+I'm an explorer in the world of data, on a quest to uncover hidden insights and transform them into valuable solutions. 
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/) [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
+
 
 ## 📚 Education
 
