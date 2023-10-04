@@ -1,21 +1,72 @@
-### Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+I'm a data enthusiast pursuing a Bachelor's degree in Business Administration with a major in Data Analytics at Drake University. I'm passionate about leveraging data to drive strategic decisions and solve complex problems. Here's a glimpse of my journey so far:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gonzalovaldenebro icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## Education 📚
 
+- 🎓 **Bachelor of Science in Business Administration**
+  - **Drake University**, Des Moines, IA
+  - Expected Graduation: December 2023
+  - Scholarships/Awards: Presidential Scholarship, Zimpleman College of Business Leadership Award of Excellence (2022 & 23)
 
+- 🎓 **Associate Degree in Business Administration**
+  - **Endicott College**, Madrid, Spain
+  - Graduated: May 2021
+  - Fluent in English; Spanish native
 
-**gonzalovaldenebro/gonzalovaldenebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills 💻
 
-Here are some ideas to get you started:
+- **Statistical Software:** Python, R, SAS
+- **Database Management:** SQL Server, MySQL, NoSQL, MongoDB, DynamoDB
+- **Cloud Computing:** Azure, AWS, Google BigQuery
+- **Visualization:** Tableau, Power BI, Qlik
+- **Big Data:** Spark, H2O Ai
+- **Languages:** Fluent in English; Spanish native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Work Experience 👨‍💼
+
+### Data Science Intern at HY-VEE Inc
+- May 2023 – Aug 2023
+- Strategized and executed an independent data science project, saving 30% runtime with efficient ETL data processing.
+- Developed a Python algorithm for cross-merchandising ads, expected to increase basket revenue by 5%.
+- Designed an intuitive H2O AI Wave app for non-technical end users.
+- Proposed extensions to enhance the company's advertising strategy and delivered model insights effectively.
+
+### Business Analytics Intern at IPS GROUP
+- Jun 2022 – Aug 2022
+- Created a Qlik Sense dashboard for precise employee forecasting.
+- Streamlined sales pipeline in Zoho CRM and improved customer contract development, saving up to 40% of time.
+
+### Data Analyst Intern at GONVARRI INDUSTRIES
+- May 2021 – Aug 2021
+- Designed a risk analysis dashboard using Excel Pivot Tables and Bex Analyzer.
+- Utilized SAP 4Hana to calculate emissions per shipment, factoring in distance, shipping methods, and materials.
+
+## University Projects 📊
+
+- Natural Language Processing Portfolio
+- TripAdvisor Review Web Scraper
+- Solar Panel Image Dust Classification
+- Predicting Wind Turbine Failure for Berkshire Hathaway Energy
+
+## Research Experience 📈
+
+### Computer Vision & Machine Learning Undergraduate Researcher at Drake University
+- Sep 2021 – Present
+- Led Machine Learning experiments with 8+ students.
+- Worked on a Multi-Task Learning framework for grasp prediction.
+- Developing a model to predict Bank Failure using data from Bank Call Reports.
+- Awards: Consortium for Computer Science in Colleges Central Plains 1st Place (2022)
+
+## Leadership 👥
+
+### President at DATA CLUB
+- Sep 2021 – Present
+- Orchestrated events and collaborations, achieving a 30% member annual growth.
+- Committed to community service and volunteering within the Drake community.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) to learn more about my journey and discuss exciting data-driven opportunities!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
+
 
