@@ -23,19 +23,19 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 My journey through the professional realm:
 
 ### Data Science Intern at HY-VEE 
-- 📅 May 2023 – Aug 2023
+• 📅 May 2023 – Aug 2023
 - Crafted and executed captivating data projects, saving precious time.
 - Engineered a Python solution for cross-merchandising ads, brewing a 5% revenue boost.
 - Designed an enchanting H2O AI Wave app for non-technical users.
 - Pioneered extensions to elevate the company's advertising strategy.
 
 ### Business Analyst Inter at IPS GROUP
-- 📅 Jun 2022 – Aug 2022
+• 📅 Jun 2022 – Aug 2022
 - Forged a Qlik Sense artifact, illuminating the path of employee forecasting.
 - Transmuted Zoho CRM, streamlining deal management and saving 40% of time.
 
 ### Data Analyst Intern at GONVARRI INDUSTRIES
-- 📅 May 2021 – Aug 2021
+• 📅 May 2021 – Aug 2021
 - Crafted a mystical risk analysis dashboard using Excel's ancient arts.
 - Called upon SAP 4Hana to extract shipping emissions data, aiding precise calculations.
 
@@ -43,20 +43,20 @@ My journey through the professional realm:
 
 My academic adventures:
 
-- Natural Language Processing Portfolio
-- TripAdvisor Review Web Scraper
-- Solar Panel Image Dust Classification
-- Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy
+- [Natural Language Processing Portfolio](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio)
+- [TripAdvisor Review Web Scraper](https://github.com/gonzalovaldenebro/TripAdvisorReviewsWebScrapper)
+- [Solar Panel Image Dust Classification](https://github.com/gonzalovaldenebro/Solar_Pannel_Dust_Classification)
+- [Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy](https://github.com/gonzalovaldenebro/DataAnalyticsCapstone)
 
 ## 🌌 Research 
 
 ### Machine Learning at Drake University
 • 📅 Sep 2021 – Present
-• **🏅 Consortium for Computer Science in Colleges Central Plains 2022 Poster Contest 1st Place** 
-• Bank Health and Failure Prediction Using Machine Learning
-• Processed 5K response variables extracted from Bank Call Reports to extract feature importance
-• Led the experimentation of Machine Learning models with 8+ students
-• Effectively executed work according to Agile Scrum principles, with weekly stand-ups
+-  **🏅 Consortium for Computer Science in Colleges Central Plains 2022 Poster Contest 1st Place** 
+- Bank Health and Failure Prediction Using Machine Learning
+- Processed 5K response variables extracted from Bank Call Reports to extract feature importance
+- Led the experimentation of Machine Learning models with 8+ students
+- Effectively executed work according to Agile Scrum principles, with weekly stand-ups
 
 
 ## 👥 Leadership Spells
