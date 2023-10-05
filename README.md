@@ -4,7 +4,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Portfolio](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
 ## 📚 Education
 
