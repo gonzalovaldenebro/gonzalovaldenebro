@@ -11,7 +11,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 • 🎓 **Bachelor of Science in Business Administration**
   - **Drake University**, Des Moines, IA
   - Expected Graduation: **December 2023**
-  - 🏅 Presidential Scholarship, Zimpleman College of Business Leadership Award of Excellence (2022 & 23)
+  - 🏅 Presidential Scholarship, Zimpleman College of Business Leadership Award of Excellence (2022 & 2023)
 
 ## 💻 Tech Toolbox
 
