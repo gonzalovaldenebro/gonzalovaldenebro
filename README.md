@@ -23,6 +23,8 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 - **Languages:** Fluent in English; Spanish native
 
 ![Python Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white)
+
 
 ## 👨‍💼 Professional Chronicles
 
