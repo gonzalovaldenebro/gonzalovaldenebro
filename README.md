@@ -16,7 +16,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 ## 💻 Tech Toolbox
 
 - **Statistical Software:** ![Python Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) &  SAS
-- **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) NoSQL, ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)! [DynamoDB Badge](https://img.shields.io/badge/DynamoDB-%234053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+- **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) ![DynamoDB Badge](https://img.shields.io/badge/DynamoDB-%234053D6?style=flat&logo=amazon-dynamodb&logoColor=white) & NoSQL
 
 - **Cloud Computing:** ![Azure Badge](https://img.shields.io/badge/Azure-%230078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Amazon Badge](https://img.shields.io/badge/Amazon-%23232F3E?style=flat&logo=amazon&logoColor=white) ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=flat&logo=google-cloud&logoColor=white)
 
