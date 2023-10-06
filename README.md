@@ -67,7 +67,6 @@ As President of DATA CLUB, I've cast spells of growth and community:
 - Orchestrated enchanting events and collaborations, leading to a 30% member growth.
 - Committed to community service and volunteering, sparking magic within the Drake community.
 
-## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
