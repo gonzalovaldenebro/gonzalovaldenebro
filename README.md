@@ -28,7 +28,7 @@ I'm an explorer in the world of data, on a quest to uncover hidden insights and 
 - **Languages:** Fluent in English; Spanish native
 
 
-## 👨‍💼 Professional Chronicles
+## 👨‍💼 Professional Experience
 
 I am a data professional with a proven track record of impactful contributions in various internship roles.
 
