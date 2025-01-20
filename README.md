@@ -1,6 +1,9 @@
 # Hi, I'm Gonzalo 👋
 
-I'm an explorer in the world of data, on a quest to uncover hidden insights and transform them into valuable solutions. Currently, I'm eagerly preparing for new adventures, and I'm on the lookout for exciting job opportunities starting in January 2024.
+I'm a data-driven Business Analytics professional specializing in retail media networks and AI-powered insights. With expertise in cloud technologies, data pipeline optimization, and advanced analytics, I transform complex data into strategic business solutions.
+Currently, I'm leveraging my skills as an Associate Data Analyst at HY-VEE, where I've developed AI chatbots, automated data pipelines, and optimized analytics implementations. My experience spans from founding a personalized meal app to conducting machine learning research.
+I'm passionate about using data to drive decision-making efficiency and business growth. Always eager to tackle new challenges, I'm open to exciting opportunities that allow me to apply my analytical skills and innovative thinking to solve complex business problems.
+Feel free to explore my projects and reach out if you'd like to collaborate or discuss data-driven solutions!
 
 ## 🌐 Connect with Me
 
